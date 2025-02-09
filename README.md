@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/HiroanaP/recipe-page.git)
-- Live Site URL: [Add live site URL here](https://hiroanap.github.io/recipe-page/)
+- Solution URL: [Github Repository](https://github.com/HiroanaP/recipe-page.git)
+- Live Site URL: [Github Pages](https://hiroanap.github.io/recipe-page/)
 
 ## My process
 
