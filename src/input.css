@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family: "Young Serif";
+    font-style: normal;
+    src: url('/assets/fonts/young-serif/YoungSerif-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: "Outfit";
+    src: url('/assets/fonts/outfit/Outfit-VariableFont_wght.ttf') format('truetype');
+}
+
+
+
+@theme {
+    --color-brown-800: #854632;
+    --color-stone-150: #E3DDD7;
+    --font-title : "Young Serif", serif;
+    --font-body : "Outfit", "sans-serif";
+}
+
+
+
